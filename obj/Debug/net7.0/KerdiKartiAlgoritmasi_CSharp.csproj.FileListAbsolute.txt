@@ -1,0 +1,34 @@
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.deps.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.runtimeconfig.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\Interop.VSLangProj.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.csproj.ResolveComReference.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.AssemblyInfoInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.AssemblyInfo.cs
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.sourcelink.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\refint\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.genruntimeconfig.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\ref\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.deps.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.runtimeconfig.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\bin\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\Interop.VSLangProj.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.csproj.ResolveComReference.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.AssemblyInfoInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.AssemblyInfo.cs
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.sourcelink.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\refint\KerdiKartiAlgoritmasi_CSharp.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\KerdiKartiAlgoritmasi_CSharp.genruntimeconfig.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\1.DonemDuzenleme\KrediKartiAlgoritmasi_CSharp\obj\Debug\net7.0\ref\KerdiKartiAlgoritmasi_CSharp.dll

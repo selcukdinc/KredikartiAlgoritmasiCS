@@ -1,0 +1,10 @@
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/bin/Debug/net7.0/KrediKartıAlgoritması(C#)
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/bin/Debug/net7.0/KrediKartıAlgoritması(C#).dll
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/bin/Debug/net7.0/KrediKartıAlgoritması(C#).pdb
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/KrediKartıAlgoritması(C#).GeneratedMSBuildEditorConfig.editorconfig
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/KrediKartıAlgoritması(C#).AssemblyInfoInputs.cache
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/KrediKartıAlgoritması(C#).AssemblyInfo.cs
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/KrediKartıAlgoritması(C#).csproj.CoreCompileInputs.cache
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/KrediKartıAlgoritması(C#).dll
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/refint/KrediKartıAlgoritması(C#).dll
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/KrediKartıAlgoritması(C#)/obj/Debug/net7.0/KrediKartıAlgoritması(C#).pdb
